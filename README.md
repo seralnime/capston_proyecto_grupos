@@ -7,6 +7,7 @@ Aplicación web desarrollada para automatizar la creación de grupos de trabajo 
 **Desarrollado para:** Capstone Design Project  
 **Tecnologías:** HTML5, CSS3, JavaScript (Vanilla), SheetJS  
 **Tipo:** Single Page Application (SPA)
+**Hecho por:** Sergio Nieto, Fabian Moya, Ricardo Cortés y Juan Montes
 
 ---
 
